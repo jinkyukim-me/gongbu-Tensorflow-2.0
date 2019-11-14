@@ -1,4 +1,4 @@
-## Intro to TensorFlow 2.0
+# Intro to TensorFlow 2.0
 
 
 ## Keras vs tf.keras
